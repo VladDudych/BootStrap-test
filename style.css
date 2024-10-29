@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .gradient-header {
+    background: linear-gradient(to right, orange, red);
+  }
+  
+  .container h2 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .container p {
+    font-size: 1.1rem;
+  }
+  
+  .dropdown-toggle {
+    width: 100%;
+  }
+
+  .gradient-header, .gradient-footer {
+    background: linear-gradient(to right, #ff0000, #ffbb00); /* Червоний-жовтий градієнт */
+  }
+  
+  
